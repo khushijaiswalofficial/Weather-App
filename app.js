@@ -91,7 +91,7 @@ function showWeatherReport(weather){
         
     } else if(weatherType.textContent == 'Snow') {
         
-        document.body.style.backgroundImage = "url('https://bestanimations.com/media/winter/1584611485winter-snow-nature-animated-gif-8.gif')";
+        document.body.style.backgroundImage = "url('https://i.pinimg.com/originals/95/b1/ea/95b1eaec001975a3fae4e4fc77d50176.gif')";
         playAudio('./music/5.wav');
 
     
